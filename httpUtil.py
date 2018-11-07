@@ -5,6 +5,7 @@
 import requests
 
 
+#请求处理工具类
 class HttpUtil:
 
     headler = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
